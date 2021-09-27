@@ -1,0 +1,5 @@
+C:\ElevenFiftyProjects\NoteEleven\NoteEleven.Services\bin\Debug\NoteEleven.Services.dll
+C:\ElevenFiftyProjects\NoteEleven\NoteEleven.Services\bin\Debug\NoteEleven.Services.pdb
+C:\ElevenFiftyProjects\NoteEleven\NoteEleven.Services\obj\Debug\NoteEleven.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\NoteEleven\NoteEleven.Services\obj\Debug\NoteEleven.Services.dll
+C:\ElevenFiftyProjects\NoteEleven\NoteEleven.Services\obj\Debug\NoteEleven.Services.pdb

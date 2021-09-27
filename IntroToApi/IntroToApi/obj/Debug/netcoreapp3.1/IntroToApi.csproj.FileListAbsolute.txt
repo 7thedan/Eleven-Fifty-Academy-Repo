@@ -1,0 +1,17 @@
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\bin\Debug\netcoreapp3.1\IntroToApi.exe
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\bin\Debug\netcoreapp3.1\IntroToApi.deps.json
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\bin\Debug\netcoreapp3.1\IntroToApi.runtimeconfig.json
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\bin\Debug\netcoreapp3.1\IntroToApi.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\bin\Debug\netcoreapp3.1\IntroToApi.dll
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\bin\Debug\netcoreapp3.1\IntroToApi.pdb
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\obj\Debug\netcoreapp3.1\IntroToApi.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\obj\Debug\netcoreapp3.1\IntroToApi.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\obj\Debug\netcoreapp3.1\IntroToApi.AssemblyInfo.cs
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\obj\Debug\netcoreapp3.1\IntroToApi.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\obj\Debug\netcoreapp3.1\IntroToApi.dll
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\obj\Debug\netcoreapp3.1\IntroToApi.pdb
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\obj\Debug\netcoreapp3.1\IntroToApi.genruntimeconfig.cache
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\obj\Debug\netcoreapp3.1\IntroToApi.csproj.CopyComplete
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\IntroToApi\IntroToApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

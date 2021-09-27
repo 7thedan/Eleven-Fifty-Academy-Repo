@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GoldBadgePractice\GoldBadgePractice\bin\Debug\GoldBadgePractice.dll
+C:\ElevenFiftyProjects\GoldBadgePractice\GoldBadgePractice\bin\Debug\GoldBadgePractice.pdb
+C:\ElevenFiftyProjects\GoldBadgePractice\GoldBadgePractice\obj\Debug\YoutubeRepoConsoleApp.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgePractice\GoldBadgePractice\obj\Debug\YoutubeRepoConsoleApp.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgePractice\GoldBadgePractice\obj\Debug\GoldBadgePractice.dll
+C:\ElevenFiftyProjects\GoldBadgePractice\GoldBadgePractice\obj\Debug\GoldBadgePractice.pdb

@@ -1,0 +1,5 @@
+C:\ElevenFiftyProjects\NoteEleven\NotEleven.Models\bin\Debug\NotEleven.Models.dll
+C:\ElevenFiftyProjects\NoteEleven\NotEleven.Models\bin\Debug\NotEleven.Models.pdb
+C:\ElevenFiftyProjects\NoteEleven\NotEleven.Models\obj\Debug\NotEleven.Models.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\NoteEleven\NotEleven.Models\obj\Debug\NotEleven.Models.dll
+C:\ElevenFiftyProjects\NoteEleven\NotEleven.Models\obj\Debug\NotEleven.Models.pdb

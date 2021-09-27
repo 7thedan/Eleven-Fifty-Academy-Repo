@@ -1,0 +1,13 @@
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\bin\Debug\netcoreapp3.1\DataInteraction.Services.exe
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\bin\Debug\netcoreapp3.1\DataInteraction.Services.deps.json
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\bin\Debug\netcoreapp3.1\DataInteraction.Services.runtimeconfig.json
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\bin\Debug\netcoreapp3.1\DataInteraction.Services.runtimeconfig.dev.json
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\bin\Debug\netcoreapp3.1\DataInteraction.Services.dll
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\bin\Debug\netcoreapp3.1\DataInteraction.Services.pdb
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\obj\Debug\netcoreapp3.1\DataInteraction.Services.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\obj\Debug\netcoreapp3.1\DataInteraction.Services.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\obj\Debug\netcoreapp3.1\DataInteraction.Services.AssemblyInfo.cs
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\obj\Debug\netcoreapp3.1\DataInteraction.Services.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\obj\Debug\netcoreapp3.1\DataInteraction.Services.dll
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\obj\Debug\netcoreapp3.1\DataInteraction.Services.pdb
+C:\ElevenFiftyProjects\DataInteraction.MVC\DataInteraction.Services\obj\Debug\netcoreapp3.1\DataInteraction.Services.genruntimeconfig.cache

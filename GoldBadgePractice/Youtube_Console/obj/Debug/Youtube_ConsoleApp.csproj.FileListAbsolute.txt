@@ -1,0 +1,9 @@
+C:\ElevenFiftyProjects\GoldBadgePractice\Youtube_Console\bin\Debug\Youtube_Console.dll
+C:\ElevenFiftyProjects\GoldBadgePractice\Youtube_Console\bin\Debug\Youtube_Console.pdb
+C:\ElevenFiftyProjects\GoldBadgePractice\Youtube_Console\bin\Debug\GoldBadgePractice.dll
+C:\ElevenFiftyProjects\GoldBadgePractice\Youtube_Console\bin\Debug\GoldBadgePractice.pdb
+C:\ElevenFiftyProjects\GoldBadgePractice\Youtube_Console\obj\Debug\Youtube_ConsoleApp.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgePractice\Youtube_Console\obj\Debug\Youtube_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgePractice\Youtube_Console\obj\Debug\Youtube_ConsoleApp.csproj.CopyComplete
+C:\ElevenFiftyProjects\GoldBadgePractice\Youtube_Console\obj\Debug\Youtube_Console.dll
+C:\ElevenFiftyProjects\GoldBadgePractice\Youtube_Console\obj\Debug\Youtube_Console.pdb

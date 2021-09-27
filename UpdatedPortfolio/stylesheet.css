@@ -1,0 +1,65 @@
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+:root{
+ --ff-primary: 'Source San Pro', sans-serif;;
+ --ff-secondary: 
+
+ --fw-reg: 300;
+ --fw-bold: 900;
+
+ --clr-bg: #ffff;
+ --clr-dark: var(--clr-dark);
+ --clr-accent: blue;
+ 
+ --fs-h1: 3rem;
+ --fs-h2: 2.25rem;
+ --fs-h3: 1.25rem;
+ --fs-body: 1rem;
+
+}
+
+@media (min-width: 800px){
+    :root {
+        --fs-h1: 4.5;
+        --fs-h2: 3.75rem;
+        --fs-h3: 1.5em;
+        --fs-body:1.125rem;
+    }
+}
+
+/* General Styles */
+
+body{
+    background:rgb(0, 0, 0);
+    color: rgb(14, 12, 12);
+    margin: 0;
+    font-family: --fs-body;
+    line-height: 1.6;;
+    background-color: black;
+}
+
+img{
+    display: block;
+    max-width: 1000%;
+    justify-content: center;
+}
+
+h1,
+h2,
+h3{
+    line-height: 1.1;
+    margin: 0;
+}
+h1{
+    font-size: var(--fs-h1);
+    font-size: var(--fs-h2);
+    font-size: var(--fs-h3);
+}
+p{
+    font-size: 100px;
+}
+
